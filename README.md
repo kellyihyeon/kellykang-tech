@@ -1,7 +1,9 @@
-# <center> 🧑🏻‍💻 **Kang Yi Hyeon | Backend Engineer**
+<div align="center">
+
+# 🧑🏻‍💻 **Kang Yi Hyeon | Backend Engineer**
 
 <br>
-<center>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkellykang-tech&count_bg=%23007396&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <image src="https://img.shields.io/github/followers/kellykang-tech?logoColor=007396&style=flat-square">
@@ -10,8 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellykang-tech&theme=dark&show_icons=true)
 
 <br>
-
-<center>
 
 # 🛠 **Skills** 
 ## **Backend**
@@ -36,3 +36,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
+
+</div>
